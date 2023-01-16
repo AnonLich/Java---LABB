@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+\\ad.liu.se\home\melpa661\Documents\GitHub\Java---LABB\LABB0\.metadata\.plugins\org.eclipse.jdt.core
-1978058037.index
-2144192654.index
